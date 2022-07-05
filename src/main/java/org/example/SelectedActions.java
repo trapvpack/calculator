@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class SelectedActions {
 
+    /*охуенный коммент*/
     int action;
     public void enterAction(){
         action = readAction();
